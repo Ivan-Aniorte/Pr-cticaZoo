@@ -25,17 +25,6 @@
                 </div>
             </div>
 
-            <!-- Carta Eliminar Zoo -->
-            <div class="col-md-4">
-                <div class="card shadow-sm h-100 text-center">
-                    <div class="card-body">
-                        <h5 class="card-title">Eliminar Zoo</h5>
-                        <p class="card-text">Elimina un zoológico existente del sistema.</p>
-                        <a href="eliminar_zoo.php" class="btn btn-danger">Eliminar</a>
-                    </div>
-                </div>
-            </div>
-
             <!-- Carta Visualizar Zoos -->
             <div class="col-md-4">
                 <div class="card shadow-sm h-100 text-center">
